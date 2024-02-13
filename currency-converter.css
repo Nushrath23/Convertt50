@@ -1,0 +1,30 @@
+body {
+    font-family:cursive;
+    background-color: rgb(16, 123, 79);
+}
+.popup-container {
+    height: 650px; 
+    color:rgb(224, 218, 240)
+  }
+
+#result {
+    width:fit-content;
+    height: 40px;
+    display: block;
+    align-items: left;
+    justify-content: left;
+    font-size: 30px;
+    margin-top: 10px;
+    border-radius: 4px;
+    color: rgb(112, 27, 27);
+    background-color: rgb(245, 243, 209);
+
+  }
+  #intro{
+    
+    color:rgb(255, 254, 254);
+  }
+  h1{
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-size: 10vh;
+  }
